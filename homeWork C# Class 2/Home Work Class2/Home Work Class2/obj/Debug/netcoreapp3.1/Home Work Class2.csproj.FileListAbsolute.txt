@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\bin\Debug\netcoreapp3.1\Home Work Class2.exe
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\bin\Debug\netcoreapp3.1\Home Work Class2.deps.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\bin\Debug\netcoreapp3.1\Home Work Class2.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\bin\Debug\netcoreapp3.1\Home Work Class2.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\bin\Debug\netcoreapp3.1\Home Work Class2.dll
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\bin\Debug\netcoreapp3.1\Home Work Class2.pdb
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.dll
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.pdb
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 2\Home Work Class2\Home Work Class2\obj\Debug\netcoreapp3.1\Home Work Class2.genruntimeconfig.cache
