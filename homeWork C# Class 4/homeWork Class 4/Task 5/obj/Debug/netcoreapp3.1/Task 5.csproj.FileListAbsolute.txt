@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\bin\Debug\netcoreapp3.1\Task 5.exe
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\bin\Debug\netcoreapp3.1\Task 5.deps.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\bin\Debug\netcoreapp3.1\Task 5.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\bin\Debug\netcoreapp3.1\Task 5.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\bin\Debug\netcoreapp3.1\Task 5.dll
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\bin\Debug\netcoreapp3.1\Task 5.pdb
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\obj\Debug\netcoreapp3.1\Task 5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\obj\Debug\netcoreapp3.1\Task 5.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\obj\Debug\netcoreapp3.1\Task 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\obj\Debug\netcoreapp3.1\Task 5.dll
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\obj\Debug\netcoreapp3.1\Task 5.pdb
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 4\homeWork Class 4\Task 5\obj\Debug\netcoreapp3.1\Task 5.genruntimeconfig.cache
