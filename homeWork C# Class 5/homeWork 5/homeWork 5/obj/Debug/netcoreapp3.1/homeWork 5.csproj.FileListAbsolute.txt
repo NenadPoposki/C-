@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\bin\Debug\netcoreapp3.1\homeWork 5.exe
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\bin\Debug\netcoreapp3.1\homeWork 5.deps.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\bin\Debug\netcoreapp3.1\homeWork 5.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\bin\Debug\netcoreapp3.1\homeWork 5.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\bin\Debug\netcoreapp3.1\homeWork 5.dll
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\bin\Debug\netcoreapp3.1\homeWork 5.pdb
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.dll
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.pdb
+C:\Users\User\Desktop\HomeWork\C#\homeWork C# Class 5\homeWork 5\homeWork 5\obj\Debug\netcoreapp3.1\homeWork 5.genruntimeconfig.cache
