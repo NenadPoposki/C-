@@ -18,26 +18,27 @@ namespace homeWork_C_sharp_Advanced_Class_2
 
             Console.WriteLine("---Cat---");
             cat.PrintAnimal();
-            
 
+            Console.WriteLine("");
             Console.WriteLine("---Cat1---");
             cat1.PrintAnimal();
-            
 
+            Console.WriteLine("");
             Console.WriteLine("---Cat2---");
             cat2.PrintAnimal();
-            
 
+            Console.WriteLine("");
             Console.WriteLine("---Dog---");
             dog.PrintAnimal();
-            
             dog.Bark();
 
+            Console.WriteLine("");
             Console.WriteLine("---Dog1---");
             dog1.PrintAnimal();
-            
             dog1.Bark();
 
+
+            Console.WriteLine("");
             Console.WriteLine("---Dog2---");
             dog2.PrintAnimal();
             

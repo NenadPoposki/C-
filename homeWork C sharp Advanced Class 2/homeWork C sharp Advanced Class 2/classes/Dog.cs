@@ -16,7 +16,10 @@ namespace homeWork_C_sharp_Advanced_Class_2.classes
 
         public void Bark()
         {
-            Console.WriteLine("Best Dog for Playing");
+            if (Play == true)
+            {
+                Console.WriteLine($"Best Dog for Playing is {Name}");
+            }
         }
     }
 }
