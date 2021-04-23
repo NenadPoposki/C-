@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "homeWork C sharp Advanced Class 2/1.0.0": {
+        "runtime": {
+          "homeWork C sharp Advanced Class 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homeWork C sharp Advanced Class 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
