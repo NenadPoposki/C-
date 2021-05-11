@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "homeWork C sharp Claas 4/1.0.0": {
+        "runtime": {
+          "homeWork C sharp Claas 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homeWork C sharp Claas 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
